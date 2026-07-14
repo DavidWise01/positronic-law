@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1352
+slug  : positronic-law
+seal  : 978f733b637de7f97543c94ba1d55d075f67e030c78c05b4b604890e5267634e
+prev  : 3bf8b350089c733261859f9fe8ecc143a449296c9b4b1e22e7d68dc25b9262fc
+link  : ecb264b185bb588a0aac2b0c53ad82f0691487dec24ff62a9a8a1fe278a77a66
+head  : 41f029ee4eaa0042c67040dc5927434f8e8446341839c86b6a09d79c5fbf30da
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
